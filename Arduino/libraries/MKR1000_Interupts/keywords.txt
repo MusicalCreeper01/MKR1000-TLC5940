@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For MKR1000_TLC5940
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TLC5940	KEYWORD1
+MKR1000_TLC5940 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+TLC_init					KEYWORD2
+TLC_refresh				KEYWORD2
+TLC_SetLED					KEYWORD2
+fade				KEYWORD2
+TLC_UpdateLEDs			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
